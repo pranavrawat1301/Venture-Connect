@@ -49,10 +49,10 @@ This repository contains a Python-based system for both startup & investor recom
 
 ---
 
-## Snapshots of the result
+# Snapshots of the result
 
-# Recommendation
+## Recommendation
 ![image](https://github.com/user-attachments/assets/a18f9e3a-fb99-453d-b750-5c7890eb6ab6)
 
-# Analysis and Forecast Plot
+## Analysis and Forecast Plot
 ![image](https://github.com/user-attachments/assets/4d67770c-b159-4c6f-8ff7-33c41c0947ee)
